@@ -30,4 +30,4 @@ code is a bit messy, but you will understand what to do :)
 You can load pre-trained weights from `epoch_0067.weights.h5`.
 
 ## Author
-Your Name – [LinkedIn](https://www.linkedin.com/in/omerfarooqq)
+Omer Farooq Khan – [LinkedIn](https://www.linkedin.com/in/omerfarooqq)
